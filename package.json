@@ -1,7 +1,7 @@
 {
-  "name": "Wa-OpenAI",
+  "name": "WapBot-OpenAI",
   "version": "1.2.4",
-  "description": "WhatsApp Bot OpenAI Using Lib Baileys Multi Device",
+  "description": "Malawi version of the whatsapp bot GPT",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,8 +18,8 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/DikaArdnt/Hisoka-Morou",
-  "author": "Session",
+  "base": "https://github.com/IamTalah/mdziwisi_2.0",
+  "author": "IamTalah",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "4.4.0",
@@ -42,10 +42,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/itsurboyvk/wa-chatGPTbot.git"
+    "url": "https://github.com/IamTalah/mdziwisi_2.git"
   },
   "bugs": {
-    "url": "https://github.com/itsurboyvk/wa-chatGPTbot/issues"
+    "url": "https://github.com/IamTalah/mdziwisi_2/issues"
   },
-  "homepage": "https://github.com/itsurboyvk/wa-chatGPTbot"
+  "homepage": "https://github.com/IamTalah/mdziwisi_2"
 }

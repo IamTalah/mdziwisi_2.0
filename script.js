@@ -73,22 +73,20 @@ module.exports = script = async (client, m, chatUpdate, store) => {
       switch (command) {
         case "help":
         case "menu":
-          m.reply(`*Whatsapp Bot OpenAI*
-            🔊Alex by Professor
+          m.reply(`*Muli olandilidwa
+            🔊Iam Talah
           📌Commands 
           1. /ai
           2. /img 
-*(KnightGPT)*
+*Mdziwisi GPT*
 Cmd: ${prefix}ai 
-🔎For Searching anything.
-✅Join https://t.me/chatgpt04 \n
-✅subscribe us - https://youtu.be/G5qegT7bVAs\n
-✅JOIN - https://chat.whatsapp.com/DFWO2OXkmgu2bxnEVpLvuj \n
-✅Telegram - https://t.me/mr_unique_hacker
-⚠NOTE - To use Bot make sure you have joined all the above groups\n else it will leave the chat!!
-*(DALL-E)*
+🔎lembani mau oti ai kuti musake chili chonse mukufuna.
+✅Follow me\n
+✅Telegram - +265993831868\n
+✅Github - https://github.com/IamTalah/ \n
+✅LinkedIn - https://www.linkedin.com/in/victor-mbewe-33a0a8176
 Cmd: ${prefix}img
-to generate ai image`)
+kusaka zinthunzi lembani kuti img`)
           break;
         case "ai": case "openai": 
           try {

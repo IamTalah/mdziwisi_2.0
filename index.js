@@ -1,5 +1,5 @@
 const sessionName = "session";
-const donet = "https://t.me/mr_unique_hacker";
+const donet = "https://t.me/IamTalah";
 const owner = ["917023951514"];
 const {
   default: scriptConnect,
@@ -144,7 +144,7 @@ async function startHisoka() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("Wa-OpenAI", {
+      figlet.textSync("WapBot-OpenAI", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -157,7 +157,7 @@ async function startHisoka() {
   const client = scriptConnect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
-    browser: ["Wa-OpenAI - script", "Safari", "3.0"],
+    browser: ["WapBot-OpenAI - script", "Safari", "3.0"],
     auth: state,
   });
 
